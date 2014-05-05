@@ -1,0 +1,11 @@
+{
+  "name": "akamai-rest-client",
+  "version": "0.1.0",
+  "dependencies": {},
+  "devDependencies": {
+    "request": "^2.34.0"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  }
+}
